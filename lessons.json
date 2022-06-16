@@ -1,0 +1,378 @@
+[
+  {
+    "header": "{\"date\": \"08.02.2022\", \"begin\": \"9:55\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134922271_139562151",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134922271_139562151",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"10.02.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134922404_139562284",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134922404_139562284",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"15.02.2022\", \"begin\": \"9:55\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134923068_139562948",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134923068_139562948",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"17.02.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134923454_139563335",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134923454_139563335",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"22.02.2022\", \"begin\": \"9:55\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134924143_139564025",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134924143_139564025",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"24.02.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134924313_139564194",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134924313_139564194",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"01.03.2022\", \"begin\": \"9:55\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134924958_139564839",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134924958_139564839",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"03.03.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134925304_139565185",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134925304_139565185",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"10.03.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134925883_139565768",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134925883_139565768",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"15.03.2022\", \"begin\": \"9:55\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134926518_139566403",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134926518_139566403",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"17.03.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134926870_139566756",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134926870_139566756",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"22.03.2022\", \"begin\": \"9:55\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134927496_139567383",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134927496_139567383",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"24.03.2022\", \"begin\": \"10:50\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435",
+        "data_index": "mix_134927828_139567716",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": null}",
+        "highlight": false,
+        "is_editable": true,
+        "scoretype_id": 1
+      },
+      {
+        "header": "\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a [\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0443\u0440\u043e\u043a\u0435]",
+        "data_index": "markcomment_134927828_139567716",
+        "fixed": false,
+        "hidden": true,
+        "width": 80,
+        "tooltip": "{\"teacher\": \"\\u0422\\u0435\\u043a\\u0443\\u0442\\u043e\\u0432\\u0430 \\u0418\\u0440\\u0438\\u043d\\u0430 \\u041d\\u0438\\u043a\\u043e\\u043b\\u0430\\u0435\\u0432\\u043d\\u0430\", \"theme\": \"\", \"work_theme\": \"\"}",
+        "is_editable": true
+      }
+    ]
+  },
+  {
+    "header": "{\"date\": \"24.03.2022\", \"begin\": \"\", \"is_closed\": false}",
+    "hidden": false,
+    "tooltip": null,
+    "columns": [
+      {
+        "header": "3 \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044c",
+        "data_index": "pmt_1__3",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "tooltip": "3 \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044c",
+        "scoretype_id": 1,
+        "is_editable": true
+      },
+      {
+        "header": "\u0421\u0440\u0435\u0434\u043d\u0438\u0439 \u0431\u0430\u043b\u043b",
+        "data_index": "average3",
+        "fixed": false,
+        "hidden": false,
+        "width": 80,
+        "scoretype_id": 1
+      }
+    ]
+  }
+]
